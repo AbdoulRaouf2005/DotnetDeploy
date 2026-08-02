@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DotnetNiger.UI",
   "resources": {
-    "hash": "sha256-DUF6WBqXRcb2bVLXHRj7ljINeVvavqTkIVcp1bQt6Qs=",
+    "hash": "sha256-jpWEcgvJPQzMhA1QQLJv8v7tFitbXsULX6Ta8BwS1NU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YDHEHpc+/PUWFYa9BMCN3EcVlpemjKD024swcpPfMIQ="
     },
@@ -80,7 +80,7 @@
       "System.wasm": "sha256-dH8gTwfC8agr9n3W9LFMY/2xjJQVN+9jyVvplI7C1jY=",
       "netstandard.wasm": "sha256-ubLufH9UA5AiGTejySTTXb7YDiwOw7XC1K+WoLTDQfo=",
       "System.Private.CoreLib.wasm": "sha256-tCBdgDFP8AefaQSWs85B6/7TD2NH+QWjauejsrKc7/U=",
-      "DotnetNiger.UI.wasm": "sha256-txvTMGbUE46TLUoKARzBR/9a3wzlyqz4zPj0ttznTZI="
+      "DotnetNiger.UI.wasm": "sha256-Okis1gNmwTpWlSZVZSdvolTBGReQ64Z+G99yoyJNHjE="
     }
   },
   "cacheBootResources": true,
